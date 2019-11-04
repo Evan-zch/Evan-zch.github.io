@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://evanzch.github.io/"/>
   <updated>2019-11-04T05:56:29.034Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://evanzch.github.io/</id>
   
   <author>
     <name>EvanZch</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>My New Post</title>
-    <link href="http://yoursite.com/:/blog/My-New-Post.html"/>
-    <id>http://yoursite.com/:/blog/My-New-Post.html</id>
+    <link href="https://evanzch.github.io//blog/My-New-Post.html"/>
+    <id>https://evanzch.github.io//blog/My-New-Post.html</id>
     <published>2019-11-04T05:56:29.000Z</published>
     <updated>2019-11-04T05:56:29.034Z</updated>
     
