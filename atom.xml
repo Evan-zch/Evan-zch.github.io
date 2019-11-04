@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>未来大可期</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-11-04T05:56:29.034Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>EvanZch</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>My New Post</title>
+    <link href="http://yoursite.com/2019/11/04/My-New-Post/"/>
+    <id>http://yoursite.com/2019/11/04/My-New-Post/</id>
+    <published>2019-11-04T05:56:29.000Z</published>
+    <updated>2019-11-04T05:56:29.034Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
